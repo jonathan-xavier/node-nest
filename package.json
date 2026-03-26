@@ -1,4 +1,8 @@
 {
   "name": "node:nest-udemy",
-  "packageManager": "yarn@4.9.2"
+  "main": "index.js",
+  "packageManager": "yarn@4.9.2",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
